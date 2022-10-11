@@ -68,13 +68,20 @@ We have more power when we have a larger sample size (because our estimates are 
 
 
 
-## How do I calculate statistical power? 
+## How do I calculate statistical power and/or sample size? 
 
-There are many tools are resources! Pick your poison. 
+There are many tools and resources! Pick your poison. 
 
-- Manually 
-- **:star: Recommended :star:** this [handy spreadsheet](https://www.3ieimpact.org/evidence-hub/publications/working-papers/power-calculation-causal-inference-social-science-sample) from 3ie. Select "Download map (excel)" to access an extremely helpful workbook. The relevant tab is 7.1.3. See walk-through below. There is full technical documentation available as well.
-- Using [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+- Manually! For two proportions, you can calculate the minimum sample size for a given power level this way: $n_i = \frac{(z_{1-\alpha/2}+z_{1-\beta})^2\sqrt{p_1(1-p_1) + p_2(1-p_2)*r}}{(p_1-p_2)^2}$ 
+  - Where $n_1$ is the *per-arm* sample size, $p_1$ is the expected proportion of one group and $p_2$ is the expected proportion of theother, and $r$ is the ratio of sample sizes between the two groups (usually 1).
+  - The $z$ values are from a standard normal distribution, where $z_{1-\alpha/2}$ is the value at which $P(Z<z_{1-\alpha/2}) = 1-\alpha/2$. 
+    - If $\alpha = 0.05$, then $z_{1-\alpha/2} = 1.96$. 
+    - You can get this using Excel, for example, with `=NORM.S.INV(1-0.05/2)` for $\alpha = 0.05$
+    - Same with $z_{1-\beta}$, where $\beta$ is the likelihood of type II error.
+  - Alternatively, you can see the [technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) from 3ie.
+- **:star: Recommended :star:** this [handy spreadsheet](https://www.3ieimpact.org/evidence-hub/publications/working-papers/power-calculation-causal-inference-social-science-sample) from 3ie, which lets you calculate sample size or minimum detectable effect size.. Select "Download map (excel)" to access an extremely helpful workbook. The relevant tab is 7.1.3. See walk-through below. There is [full technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) available as well.
+- Using [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
+- Using other web resources, like [this one](https://select-statistics.co.uk/calculators/sample-size-calculator-two-proportions/) from Select Statistical Services (note that this one yields the sample size **per arm** with a two-arm study and equal split between the two arms)
 - In Stata. I find this easiest, but that's because I use Stata a LOT. You will need to download Stata from the [UVM Software Portal](https://software.uvm.edu/) first. 
   - You can type something like `power twoproportions 0.2 0.5, power(0.8)`to calculate the sample size you would need to have 80% power to detect a 30 percentage point difference in callback rates (20% for one group, 50% for another)
   - Or, you can type something like `power twoproportions 0.2 , power(0.8) n(200)`to determine that the minimum detectable effect size with a sample of 200 (100 in one group, 100 in another) and 80% power would be 17.86 percentage points relative to another group with a 20% response rate. 
@@ -121,7 +128,7 @@ All elements are as before, except this time you enter a sample size and it outp
 
 
 
-### Complexities
+## Complexities
 
 
 
@@ -135,17 +142,17 @@ However, if you are up for linear regression, you can include controls for each 
 
 
 
-## What if I want to include controls? 
+### What if I want to include controls? 
 
 If you are someone who has experience with linear regression, you may want to control for all sorts of factors like time of day, industry, nature of work experience, etc. 
 
 You can conduct your power calculations as above, which is essentially a lower bound. If you want to make an assumption about how much variance they explain (0.1–0.2 is pretty reasonable unless it's something like an employer fixed effect), then you can use Table 7.1.4 and put that number for "Proportion of outcome variance explained by level 1 covariate(s)" - this will increase your power! 
 
-## What if I have other outcome variables? 
+### What if I have other outcome variables? 
 
 Let's do power calculations just for one main binary outcome. 
 
-## What if I have more "cuts" in my sample? (3 groups, 4 groups, etc)
+### What if I have more "cuts" in my sample? (3 groups, 4 groups, etc)
 
 Set up your comparisons as between two groups: A vs B. How big are those groups? It could be 25% of your sample vs 25% of your sample. The total sample size speaks to those that are part of your test. Adjust proportions and total sample size accordingly. 
 
