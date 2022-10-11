@@ -14,13 +14,13 @@ What if you are at home, at a coffee shop, visiting friends in Korea? You can st
 
 **Option 1:** Click on the "Connect Off Campus" link at [library.uvm.edu](https://library.uvm.edu/)
 
-<img src="/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/image-20221010143733320.png" alt="image-20221010143733320" style="zoom:25%;" />
+<img src="image-20221011115454216.png" alt="image-20221011115454216" style="zoom:33%;" />
 
 
 
 **Option 2:** When you find what you're searching for, insert `ezproxy.uvm.edu` into the url *after* the domain and follow log-in instructions. You may need to click "advanced" if it upsets your browser permissions.
 
-<img src="/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/image-20221010143941956.png" alt="image-20221010143941956" style="zoom:25%;" />
+<img src="image-20221011115511744.png" alt="image-20221011115511744" style="zoom:25%;" />
 
 **Option 3:** Follow [library instructions](https://library.uvm.edu/help/access_library_resources_from_off_campus) to access a VPN
 
@@ -38,7 +38,7 @@ You can request any academic journal article via [Interlibrary Loan (ILL)](https
 
 Head to [ILL](https://illiad.uvm.edu/illiad/AtlasAuthPortal), log in, and make a "New Request." Then select "Journal Article" and fill in all the details. Easy!
 
-<img src="/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/image-20221010145342227.png" alt="image-20221010145342227" style="zoom:33%;" /> 
+<img src="image-20221011115521763.png" alt="image-20221011115521763" style="zoom:33%;" /> 
 
 
 
@@ -51,8 +51,8 @@ Head to the ["Research Databases"](https://library.uvm.edu/research/research_dat
 - Academic Search Premier: Recommended interdisciplinary search tool. If looking for peer-reviewed articles, make sure to check the "peer reviewed" box! 
 - EconLit: Great for finding published articles within the economics literature. Also has that great "peer reviewed" check-box.
 
-<img src="/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/image-20221010145308769.png" alt="image-20221010145308769" style="zoom:33%;" />
+<img src="image-20221011115530783.png" alt="image-20221011115530783" style="zoom:33%;" />
 
 
 
-#### *[Back to index](index.html)*
+***[Back to index](index.html)***

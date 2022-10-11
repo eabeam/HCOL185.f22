@@ -36,7 +36,7 @@ The underlying idea of a hypothesis test is that if our estimates are very far a
 
 We can write power as $(1-\beta)$, where $\beta$ is the probability of Type II error (failing to reject when the null is false)
 
-<img src="/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/Type I and II error.jpg" alt="Type I and II error" style="zoom:50%;" />
+<img src="image-20221011115627131.png" alt="image-20221011115627131" style="zoom:50%;" />
 
 
 
@@ -96,9 +96,9 @@ There are many tools and resources! Pick your poison.
 
 Let's check out this [handy spreadsheet!](https://www.3ieimpact.org/sites/default/files/2017-11/3ie-sample-size-minimum-detectable-effect-calculator.xlsx)
 
-![image-20221010155736626](/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/image-20221010155736626.png)
 
 
+![image-20221011115643858](image-20221011115643858.png)
 
 1. Go to tab 7.1.3, which will lead you to "Single level trials with binary outcomes"
 
