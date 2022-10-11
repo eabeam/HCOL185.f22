@@ -27,15 +27,15 @@ Last updated: 11 October 2022
 
 Each group should submit the following: 
 
-1. [Annotated bibliography](rproposal.html/#annotated-bibliography)
-2. [Methodology outline](rproposal.html/#detailed-methodology-outline)
-3. [Refined research question](#refined-research-question)
+1. [Annotated bibliography](rproposal.html#annotated-bibliography)
+2. [Methodology outline](rproposal.html#detailed-methodology-outline)
+3. [Refined research question](rproposal.html#refined-research-question)
 
 ### [Assignment Guidelines](rproposal)
 
 *These are the same guidelines listed on BB*. They also contain links to key topics: 
 
-- [Library Databases](library_database)
+- [Library databases](library_database)
 - [Power calculations](powercalc.html)
 
 

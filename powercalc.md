@@ -74,6 +74,7 @@ We have more power when we have a larger sample size (because our estimates are 
 
 There are many tools and resources! Pick your poison. 
 
+- **:star: Recommended :star: this [handy spreadsheet](https://www.3ieimpact.org/evidence-hub/publications/working-papers/power-calculation-causal-inference-social-science-sample) from 3ie,** which lets you calculate sample size or minimum detectable effect size.. Select "Download map (excel)" to access an extremely helpful workbook. The relevant tab is 7.1.3. See walk-through below. There is [full technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) available as well.
 - Manually! For two proportions, you can calculate the minimum sample size for a given power level this way: $n_i = \frac{(z_{1-\alpha/2}+z_{1-\beta})^2\sqrt{p_1(1-p_1) + p_2(1-p_2)*r}}{(p_1-p_2)^2}$ 
   - Where $n_1$ is the *per-arm* sample size, $p_1$ is the expected proportion of one group and $p_2$ is the expected proportion of theother, and $r$ is the ratio of sample sizes between the two groups (usually 1).
   - The $z$ values are from a standard normal distribution, where $z_{1-\alpha/2}$ is the value at which $P(Z<z_{1-\alpha/2}) = 1-\alpha/2$. 
@@ -81,7 +82,6 @@ There are many tools and resources! Pick your poison.
     - You can get this using Excel, for example, with `=NORM.S.INV(1-0.05/2)` for $\alpha = 0.05$
     - Same with $z_{1-\beta}$, where $\beta$ is the likelihood of type II error.
   - Alternatively, you can see the [technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) from 3ie.
-- **:star: Recommended :star:** this [handy spreadsheet](https://www.3ieimpact.org/evidence-hub/publications/working-papers/power-calculation-causal-inference-social-science-sample) from 3ie, which lets you calculate sample size or minimum detectable effect size.. Select "Download map (excel)" to access an extremely helpful workbook. The relevant tab is 7.1.3. See walk-through below. There is [full technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) available as well.
 - Using [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
 - Using other web resources, like [this one](https://select-statistics.co.uk/calculators/sample-size-calculator-two-proportions/) from Select Statistical Services (note that this one yields the sample size **per arm** with a two-arm study and equal split between the two arms)
 - In Stata. I find this easiest, but that's because I use Stata a LOT. You will need to download Stata from the [UVM Software Portal](https://software.uvm.edu/) first. 
@@ -92,7 +92,7 @@ There are many tools and resources! Pick your poison.
 
 
 
-### 3ie Walkthrough 
+### 3ie Walkthrough (recommended) 
 
 Let's check out this [handy spreadsheet!](https://www.3ieimpact.org/sites/default/files/2017-11/3ie-sample-size-minimum-detectable-effect-calculator.xlsx)
 
@@ -171,4 +171,4 @@ Set up your comparisons as between two groups: A vs B. How big are those groups?
 
 
 
-#### *[Back to index](index.html)*
+***[Back to index](index.html)***
