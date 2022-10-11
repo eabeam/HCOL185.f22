@@ -1,5 +1,7 @@
 # Power Calculations 
 
+*[Back to index](index.html)*
+
 [TOC]
 
 This is a very cursory overview of power calculations.
@@ -165,3 +167,8 @@ Set up your comparisons as between two groups: A vs B. How big are those groups?
 - [JPAL: Six Rules of Thumb for Sample Size and Statistical Power](https://www.povertyactionlab.org/sites/default/files/research-resources/2018.03.21-Rules-of-Thumb-for-Sample-Size-and-Power.pdf)
 - [EGAP: Ten Things to Know about Statistical Power](https://egap.org/resource/10-things-to-know-about-statistical-power/)
 
+
+
+
+
+#### *[Back to index](index.html)*

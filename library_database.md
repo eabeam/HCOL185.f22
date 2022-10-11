@@ -1,5 +1,13 @@
 # Library Databases 
 
+
+
+*[Back to index](index.html)*
+
+[TOC]
+
+
+
 ## Accessing resources off campus 
 
 What if you are at home, at a coffee shop, visiting friends in Korea? You can still access UVM library resources! 
@@ -44,3 +52,7 @@ Head to the ["Research Databases"](https://library.uvm.edu/research/research_dat
 - EconLit: Great for finding published articles within the economics literature. Also has that great "peer reviewed" check-box.
 
 <img src="/Users/ebeam/Dropbox/UVM-HCOL185-Fall2022/HCOL185.f22/image-20221010145308769.png" alt="image-20221010145308769" style="zoom:33%;" />
+
+
+
+#### *[Back to index](index.html)*
