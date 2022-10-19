@@ -10,7 +10,7 @@ Last updated: 16 October 2022
 
 |                              |                                          |
 | ---------------------------- | ---------------------------------------- |
-| October 21 (F) @ 1:10pm      | [Research Proposal](#research-proposal)  |
+| October 21 (F) @ 1:10pm      | [Research Proposal](rproposal.html)      |
 | October 28 (F) @ 1:10pm      | [Protocols](rprotocol.html)              |
 | November 4 (F) @ 1:10pm      | [Progress Report 1](progressreport.html) |
 | November 11 (F) @ 1:10pm     | [Progress Report 2](progressreport.html) |
@@ -50,6 +50,8 @@ Each group should submit the following:
 
 ### [Assignment Guidelines](rprotcol.html) 
 
+- **Protocol Template: [HCOL185_research-protocol-template.docx](HCOL185_research-protocol-template.docx)**
+- [Randomization in Excel demo](https://www.youtube.com/embed/KE2KViKAeSI)
 - [Data security](data-security)
 
 

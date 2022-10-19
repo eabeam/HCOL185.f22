@@ -1,24 +1,54 @@
-# Research Protocl 
+# Research Protocol 
+
+*[Back to index](index.html)*
 
 *You're about to do a big thing! :muscle: The aim of this assignment is to anticipate and work out as many details as possible to streamline your experience. With these issues out of way, my hope is that the challenges that emerge will be only the most interesting and satisfying to tackle!*
 
 **Due 28 October @ 1:10pm **
 
+**Protocol Template: [HCOL185_research-protocol-template.docx](HCOL185_research-protocol-template.docx)**
+
+
+
+[TOC]
+
+
+
 ## Instructions 
 
-Use the attached template to generate detailed protocol of all the *implementation* steps of your study, building off your research methdology. Make sure to address or incorporate suggestions/comments in response to your submitted research methodology. 
+Download the [attached template](HCOL185_research-protocol-template.docx) to generate detailed protocol of all the *implementation* steps of your study, building off your research methdology. Make sure to address or incorporate suggestions/comments in response to your submitted research methodology. 
 
 Submit the following: 
 
-- Completed research protocol
-- Data collection template 
-- Samples of all materials: potential materials listed in the protocol template.
+1. Completed [research protocol template](HCOL185_research-protocol-template.docx)
+2. [Data collection template](#data-collection-template): submit as separate attachment
+3. Template and sample of all submission materials: the template includes a list of potential materials 
 
 Some elements will require a bit of experimentation to figure out how best to proceed. I've included some advice and instructions on possible directions below. 
 
 For a bigger-picture discussion of considerations, I recommend this (relatively brief) chapter by Joanna Lahey and Ryan Beasley, ["Technical Aspects of Correspondence Studies"](https://www.nber.org/system/files/working_papers/w22818/w22818.pdf)
 
-## From randomization to data
+
+
+## Data collection template
+
+Make sure that each submission has a numeric id. This could be as simple as S1–S800, or it could be more complex, like LA001–LA099 for Los Angeles submissions and NY001–NY099 for NY submissions. 
+
+- Make an excel file with **one row per submission**. 
+- List the ID :point_up: , the resume characteristics and/or number, and any relevant employer/recipient characteristics (name of employer, type of employer, etc.) 
+- Record the date and time submitted. 
+  - You can do this with keystrokes! 
+    - On a Mac or PC  ==`control + ;`== will [display the date](https://excel-hack.com/today-date-shortcut/).  
+    - Then, to [display the time](https://excel-hack.com/today-date-shortcut/), you can type ==`command + ;`== on a Mac or ==`ctrl + shift + ;`== on a PC
+- Make a column for whether you received a call-back (1/0). 
+  - You may also want other columns for callbacks: date of callback, time of callback, nature of callback (if multiple options, like phone/email/text)
+  - You may want a column for the text of the response (if you plan on doing some sort of textual analysis). If so, literally copy and paste the text into it.
+
+## Additional Guidance
+
+
+
+### From randomization to data
 
 For most projects, you will start with a template that has some randomizable elements. You will need to do the following: 
 
@@ -42,15 +72,15 @@ If these approaches are not for you, continue on!
 
 
 
-## Assembling materials 
+### Assembling materials 
 
 Note that so long as you can identify what person/subject is responding to which submission, you only need a few phone numbers and e-mails. (With a matched-pairs design, you need more, but not *that* many more). Reuse them and save yourself a lot of hassle!
 
-### What if i need phone numbers for e-mail verification? 
+#### What if i need phone numbers for e-mail verification? 
 
 Try out [quackr.io](https://quackr.io/temporary-numbers) :duck: Note that this isn't suitable as a phone number for people to respond to!
 
-### What if I need phone numbers to receive responses? 
+#### What if I need phone numbers to receive responses? 
 
 I strongly recommend *not* using your personal phone numbers.
 
@@ -64,11 +94,11 @@ I strongly recommend *not* using your personal phone numbers.
 
 
 
-## Randomization
+### Randomization
 
 At some point, you will need to randomize something. There are many ways to do this. My recommendation for a *simple* and robust way to do this is in Excel. It has disadvantages - not replicable - but it gets the job done. 
 
-The World Bank's DIME unit has a [detailed review](https://dimewiki.worldbank.org/Randomization_in_Excel), and I've included a short **demo** below
+The World	 Bank's DIME unit has a [detailed review](https://dimewiki.worldbank.org/Randomization_in_Excel), and I've included a short **demo** below
 
 > Here are the steps of doing successful **randomization using Excel**:
 >
@@ -81,13 +111,13 @@ The World Bank's DIME unit has a [detailed review](https://dimewiki.worldbank.or
 
 
 
-**DEMO: Randomization in Excel**
+#### **DEMO: Randomization in Excel**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KE2KViKAeSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-### Elements 
+#### Randomizing multiple elements 
 
 If you have one or two stock templates, and then you are randomizing one element, then :point_up: will serve you well. However, if you have multiple elements, this can get very confusing very quickly. 
 
@@ -97,18 +127,35 @@ Generate a series of numbered resume templates. The number of templates equals t
 
 For example, if you are randomizing name (4 names, 2 white & 2 black) but also university (2 choices) and primary employer (3 choices), then you have $4*2*3 = 24$ possible templates. Number them R1 – R24. Then, randomly assign each posting (or submission) to one of those templates using the above process in Excel. 
 
+### Data security 
+
+I've included a write-up of how to approach data security [here](data-security.html)
+
+## Grading
+
+Each item listed below is worth 5 points. For each item, you will earn 4 points if the necessary elements are included and complete. You will earn 5 if they are thorough, are *ex-ante* likely to succeed, and reflect critical thinking about potential problems and challenges. 
+
+**Key items:** 
+
+|      | Key items (50 points total)             | Description                                                  |
+| ---- | --------------------------------------- | ------------------------------------------------------------ |
+| 1    | Key outcomes and hypothesis tests       | See protocol template                                        |
+| 2    | Participant selection criteria          | ---                                                          |
+| 3    | Randomization                           | ---                                                          |
+| 4    | Building applicant profiles             | ---                                                          |
+| 5    | Submission and data collection profiles | ---                                                          |
+| 6    | Planned analysis                        | ---                                                          |
+| 7,8  | Submission materials                    | x2 points: Include both templates and samples                |
+| 9    | Data collection template                | Separate Excel file1                                         |
+| 10   | Timeline and data management plan       | See protocol template and [data management](data-management.html) |
+|      |                                         |                                                              |
 
 
-## Data collection template
 
-Make sure that each submission has a numeric id. This could be as simple as S1–S800, or it could be more complex, like LA001–LA099 for Los Angeles submissions and NY001–NY099 for NY submissions. 
 
-- Make an excel file with **one row per submission**. 
-- List the ID :point_up: , the resume characteristics and/or number, and any relevant employer/recipient characteristics (name of employer, type of employer, etc.) 
-- Record the date and time submitted. 
-  - (You can do this with keystrokes! 
-    - On a Mac or PC  ==`control + ;`== will [display the date](https://excel-hack.com/today-date-shortcut/).  
-    - Then, to [display the time](https://excel-hack.com/today-date-shortcut/), you can type ==`command + ;`== on a Mac or ==`ctrl + shift + ;`== on a PC
-- Make a column for whether you received a call-back (1/0). 
-  - You may also want other columns for callbacks: date of callback, time of callback, nature of callback (if multiple options, like phone/email/text)
-  - You may want a column for the text of the response (if you plan on doing some sort of textual analysis). If so, literally copy and paste the text into it.
+
+
+
+
+
+***[Back to index](index.html)***

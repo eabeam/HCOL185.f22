@@ -75,19 +75,31 @@ We have more power when we have a larger sample size (because our estimates are 
 There are many tools and resources! Pick your poison. 
 
 - **:star: Recommended :star: this [handy spreadsheet](https://www.3ieimpact.org/evidence-hub/publications/working-papers/power-calculation-causal-inference-social-science-sample) from 3ie,** which lets you calculate sample size or minimum detectable effect size.. Select "Download map (excel)" to access an extremely helpful workbook. The relevant tab is 7.1.3. See walk-through below. There is [full technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) available as well.
+
+- :star: Using [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).:star:: A free, well-documented program you can download for Mac or PC. Has a few nice features! 
+  
+  - If you use this, make sure you set up the appropriate test: "Proportions: difference between two independent proportions" using the "z tests" test family :point_down:
+  
+  <img src="image-20221019120045424.png" alt="image-20221019120045424" style="zoom:50%;" /> 
+  
 - Manually! For two proportions, you can calculate the minimum sample size for a given power level this way: $n_i = \frac{(z_{1-\alpha/2}+z_{1-\beta})^2\sqrt{p_1(1-p_1) + p_2(1-p_2)*r}}{(p_1-p_2)^2}$ 
+
   - Where $n_1$ is the *per-arm* sample size, $p_1$ is the expected proportion of one group and $p_2$ is the expected proportion of theother, and $r$ is the ratio of sample sizes between the two groups (usually 1).
   - The $z$ values are from a standard normal distribution, where $z_{1-\alpha/2}$ is the value at which $P(Z<z_{1-\alpha/2}) = 1-\alpha/2$. 
     - If $\alpha = 0.05$, then $z_{1-\alpha/2} = 1.96$. 
     - You can get this using Excel, for example, with `=NORM.S.INV(1-0.05/2)` for $\alpha = 0.05$
     - Same with $z_{1-\beta}$, where $\beta$ is the likelihood of type II error.
   - Alternatively, you can see the [technical documentation](https://www.3ieimpact.org/sites/default/files/2019-01/wp26-power-calculation.pdf) from 3ie.
-- Using [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
-- Using other web resources, like [this one](https://select-statistics.co.uk/calculators/sample-size-calculator-two-proportions/) from Select Statistical Services (note that this one yields the sample size **per arm** with a two-arm study and equal split between the two arms)
+
+- 
+
+- Using other web resources, like [this one](https://select-statistics.co.uk/calculators/sample-size-calculator-two-proportions/) from Select Statistical Services (note that this one yields the sample size **per arm** with a two-arm study and equal split between the two arms) or [this one from GIGAcalculator](https://www.gigacalculator.com/calculators/power-sample-size-calculator.php) (I find this one quite straightforward!)
+
 - In Stata. I find this easiest, but that's because I use Stata a LOT. You will need to download Stata from the [UVM Software Portal](https://software.uvm.edu/) first. 
   - You can type something like `power twoproportions 0.2 0.5, power(0.8)`to calculate the sample size you would need to have 80% power to detect a 30 percentage point difference in callback rates (20% for one group, 50% for another)
   - Or, you can type something like `power twoproportions 0.2 , power(0.8) n(200)`to determine that the minimum detectable effect size with a sample of 200 (100 in one group, 100 in another) and 80% power would be 17.86 percentage points relative to another group with a 20% response rate. 
   - You can type `help power` to find more options, like if you have more continuous outcome measures.
+
 - In R. This is not where I'm an expert, but JPAL has resources [here](https://github.com/J-PAL/Sample_Size_and_Power).
 
 
@@ -162,12 +174,13 @@ Set up your comparisons as between two groups: A vs B. How big are those groups?
 
 ## Additional Resources 
 
-- [JPAL: Statistical Power](https://www.povertyactionlab.org/resource/power-calculations)
+- [Statistical Power in Hypothesis Testing—Visually Explained](https://towardsdatascience.com/statistical-power-in-hypothesis-testing-visually-explained-1576968b587e)
+- JPAL: Statistical Power](https://www.povertyactionlab.org/resource/power-calculations)
+
 - [JPAL: Quick Guide to Power Calculations](https://www.povertyactionlab.org/resource/quick-guide-power-calculations)
 - [JPAL: Six Rules of Thumb for Sample Size and Statistical Power](https://www.povertyactionlab.org/sites/default/files/research-resources/2018.03.21-Rules-of-Thumb-for-Sample-Size-and-Power.pdf)
 - [EGAP: Ten Things to Know about Statistical Power](https://egap.org/resource/10-things-to-know-about-statistical-power/)
-
-
+- 
 
 
 
