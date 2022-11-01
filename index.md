@@ -67,3 +67,7 @@ There are three progress reports, see [guidelines](progressreport.html) for inst
 
 
 ## 5. Final Submission 
+
+
+
+### *[Independent Research Assignment](independentresearch.html)*
