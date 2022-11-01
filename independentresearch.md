@@ -4,7 +4,7 @@
 
 ## Assignment overview
 
-The purpose of this assignment is use correspondence study data in order to answer a research question that you develop. You'll use Philippine data from [Beam et al. (2020)](https://drive.google.com/file/d/120TxjF41GnursNtAakGI_oe0OufBWpO9/view?usp=sharing) in order to conduct the analysis portion and shape your research question.
+The purpose of this assignment is use correspondence study data in order to answer a research question that you develop. You'll use Philippine data from [Beam et al. (2020)](https://drive.google.com/file/d/14R9qXCckYSzQPhNg1H2MEppl3faxNDRc/view?usp=sharing) in order to conduct the analysis portion and shape your research question.
 
 Your research paper will follow the general guidance for the group research paper, although the emphasis per section (and grading rubric) will be different.
 
@@ -41,7 +41,7 @@ Grading weights mirror the group assignment, with full credit assigned for group
 
 ==*Please submit in the Progress Report #2 submission on BB*==
 
-The aim of this assignment is to build a research question and workable analysis plan for your final paper. Use the [Beam et al (2020)](https://drive.google.com/file/d/14R9qXCckYSzQPhNg1H2MEppl3faxNDRc/view?usp=sharing) paper and separate data file in order to build your idea. 
+The aim of this assignment is to build a research question and workable analysis plan for your final paper. Use the [Beam et al. (2020)](https://drive.google.com/file/d/14R9qXCckYSzQPhNg1H2MEppl3faxNDRc/view?usp=sharing) paper and separate data file in order to build your idea. 
 
 #### Key elements
 
@@ -134,7 +134,7 @@ I'll also ask you to attach separately any programs and/or Excel files in which 
 
 ## Notes regarding extending an existing paper
 
-Because you're extending an existing paper, a lot of key content will be available in Beam et al. (2020) - discussions of the experimental design, etc. A few guidelines: 
+Because you're extending an existing paper, a lot of key content will be available in [Beam et al. (2020)](https://drive.google.com/file/d/14R9qXCckYSzQPhNg1H2MEppl3faxNDRc/view?usp=sharing) - discussions of the experimental design, etc. A few guidelines: 
 
 - Avoid plagiarism by using in-text citations when you are pulling ideas from the source paper (and of course, elsewhere too). Key rule is whether it's clear where you are getting your ideas from: 
   - Okay (I can follow the link across sentences): The experiment was conducted by Beam et al. (2020). They submitted 7,576 resumes to 4000 positions over 12 weeks. They found that goldfish were especially responsive. 
