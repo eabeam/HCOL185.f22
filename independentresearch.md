@@ -108,6 +108,13 @@ This assignment will mirror the presentation guidelines for the group project, w
 
 **Your final paper will be 2500–3500 words if single-authored or 3500–4500 words if joint-authored** (excluding abstract  and references). 
 
+==Use the [final paper template](research-paper-template.docx) for the group project, noting the following **three ** deviations:==
+
+1. - Word count: 2500–3500 single-authored, 3500–4500 if joint authored
+2. - Study design should reflect description below rather than template (otherwise won't make sense)
+     - You don't need a randomization table or timeline
+3. You should have at least **two tables and/or figures** if single-authored or **three tables and/or figures** if double-authored. At least one figure should be a bar graph with confidence intervals or a slope graph
+
 It should have the following sections: 
 
 1. **Title and Abstract**
@@ -117,8 +124,10 @@ It should have the following sections:
    - Abstract that summarizes the paper and findings in **250 words or fewer**
 
 2. **Introduction: **This will be an economics-style introduction, following [the introduction formula](https://blogs.ubc.ca/khead/research/research-advice/formula). *Roughly 2–3 pages double spaced*
+   1. Note minimum number of references required, noted in [final paper template](research-paper-template.docx)
 
-3. **Literature review** and background. *Roughly 2–4 pages double spaced*
+3. **Literature review** and background. *Roughly 2–4 pages double spaced*. 
+   1. Note minimum number of references required, noted in [final paper template](research-paper-template.docx)
 
 4. **Study design:** This will include two components: (a) how data was collection and (b) how you implemented your part of the study. Part (a) will be very brief and summarize whatever points are relevant to your study from Beam et al. (2020). Part (b) will describe any sample restrictions, the empirical strategies you're using to look at your data. *Roughly 2–3 pages*
 
@@ -128,7 +137,7 @@ It should have the following sections:
 
 7. **References**
 
-You should have at least **two tables and/or figures** if single-authored or **three tables and/or figures** if double-authored. You can put them in the end or embed in text.
+You should have at least **two tables and/or figures** if single-authored or **three tables and/or figures** if double-authored. You can put them in the end or embed in text. **At least one figure should be a bar graph with confidence intervals or a slope graph**
 
 I'll also ask you to attach separately any programs and/or Excel files in which you conduct your analysis.
 
