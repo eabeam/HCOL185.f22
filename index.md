@@ -2,9 +2,9 @@
 
 *There's a lot going on, so I hope that this framework will help you keep track of everything!*
 
-Last updated: 16 October 2022
+Last updated: 16 November 2022
 
-
+*See bottom of page for link to independent research assignment*
 
 ### Key Deadlines
 
@@ -15,7 +15,7 @@ Last updated: 16 October 2022
 | November 4 (F) @ 1:10pm      | [Progress Report 1](progressreport.html)       |
 | November 11 (F) @ 1:10pm     | [Progress Report 2](progressreport.html)       |
 | November 18 (F) @ 1:10pm     | [Progress Report 3](progressreport.html)       |
-| December 02 (F) @ 1:10pm     | [Draft](4.-paper-draft)                        |
+| December 02 (F) @ 1:10pm     | [Draft](#4.-paper-draft)                       |
 | December 05, 07, 09 @ 1:10pm | [Group Presentation](#5.-Presentation)         |
 | December 11 (Su) @ 11:59pm   | [Final Submission](#6.-final-paper-submission) |
 
@@ -80,16 +80,51 @@ Draft submission is 4/122 points in the final paper rubric, and peer review is 4
 
 You'll prepare a 15–20 minute presentation of your results. Each member should talk. See guidelines and rubric below.
 
-1. [Presentation guidelines](presentation_guidlines.pdf)
-2. [Presentation rubric (xlsx)](final-presentation-rubric.xlsx) [(pdf)](final-presentation-rubric.pdf)
+Please submit the following by the **end of the day** of your presentation 
+
+1. Individual presentation [google survey](https://forms.gle/y9CYoJjEjQMKuHQM6)
+2. Upload pdf version of slide deck
+3. Upload .pptx version of slide deck (or link to google slides) 
+
+
+
+### Presentation resources
+
+- [Presentation guidelines](presentation_guidlines.pdf)
+- [Presentation rubric (xlsx)](final-presentation-rubric.xlsx) [(pdf)](final-presentation-rubric.pdf)
+
+
+
+
 
 ## 6. Final paper submission 
 
-You'll submit your final paper as a group. Individully, you'll submit a reflection
+You'll need to submit the following by **December 11 @ 11:59pm** 
 
-1. :star: [Final paper template (docx)](research-paper-template.docx) - note that the rubric is embedded
-2. [Final paper rubric (xlsx)](final-paper-rubric.xlsx) [(pdf)](final-paper-rubric.pdf) same rubric as :point_up:, but as an excel or pdf
-3. Reflection instructions. **(TBD)**
+1. Your final paper (pdf)
+2. Individual reflection (individual), separate blackboard submission
+3. Individual final paper [google survey](https://forms.gle/Wu13MT9yYiyZseVv5)
+
+
+
+### Final paper resources	
+
+#### Downloads
+
+- :star: [Final paper template (docx)](research-paper-template.docx) - note that the rubric is embedded
+- [Final paper rubric (xlsx)](final-paper-rubric.xlsx) [(pdf)](final-paper-rubric.pdf) same rubric as :point_up:, but as an excel or pdf
+
+#### Individual reflection
+
+Write a reflection of at least 500 words that answers the following questions: 
+
+1. What were your personal contributions to the group project?
+2. What challenges did you and your group face, and how did you handle them? 
+3. What did you learn from the project? What do you expect to takeaway, say, one year from now? 
+4. What worked well about the assignment? 
+5. What about the assignment could have been different to improve your learning? 
+
+
 
 
 

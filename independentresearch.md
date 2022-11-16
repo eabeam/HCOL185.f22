@@ -48,13 +48,14 @@ The aim of this assignment is to build a research question and workable analysis
 There are **five** elements in your idea proposal. Note that **#2 is new** and was not part of the earlier assignment!
 
 1. A clearly defined research question. 
-
-- - *When possible, avoid writing a research question where the answer is "yes" or "no." That is, "how much does X affect Y?" rather than "does X affect Y?"*
+   - *When possible, avoid writing a research question where the answer is "yes" or "no." That is, "how much does X affect Y?" rather than "does X affect Y?"*
 
 2. 1–2 sentences about why the answer to this question matters or how it links to what we know from existing literature.
-3. A brief description of how you will answer this question. 
 
-1. - The idea here is to make specific what you're thinking about, so you can determine if it's doable or not, and whether it answers your research question or not. 
+3. A brief description of how you will answer this question.
+
+   - The idea here is to make specific what you're thinking about, so you can determine if it's doable or not, and whether it answers your research question or not. 
+
    - But don't be afraid of being creative! It would be completely okay (and encouraged!) to say: "We will do X ... {description of X}. Alternatively, we could instead do Y ... {description of long-shot Y}, but there may be challenges if ... {descriptions of why this might be tricky}"
    - For this project, it may involve comparing two groups, comparing multiple groups. It may involve hypothesis testing, creating descriptive graphs, etc. 
 
@@ -110,10 +111,12 @@ This assignment will mirror the presentation guidelines for the group project, w
 
 ==Use the [final paper template](research-paper-template.docx) for the group project, noting the following **three ** deviations:==
 
-1. - Word count: 2500–3500 single-authored, 3500–4500 if joint authored
-2. - Study design should reflect description below rather than template (otherwise won't make sense)
-     - You don't need a randomization table or timeline
+1. Word count: 2500–3500 single-authored, 3500–4500 if joint authored
+2. Study design should reflect description below rather than template (otherwise won't make sense)
+   - You don't need a randomization table or timeline
 3. You should have at least **two tables and/or figures** if single-authored or **three tables and/or figures** if double-authored. At least one figure should be a bar graph with confidence intervals or a slope graph
+
+
 
 It should have the following sections: 
 
@@ -121,7 +124,7 @@ It should have the following sections:
 
    - Descriptive title
 
-   - Abstract that summarizes the paper and findings in **250 words or fewer**
+   - Abstract that summarizes the paper and findings in **150–250 words**
 
 2. **Introduction: **This will be an economics-style introduction, following [the introduction formula](https://blogs.ubc.ca/khead/research/research-advice/formula). *Roughly 2–3 pages double spaced*
    1. Note minimum number of references required, noted in [final paper template](research-paper-template.docx)
