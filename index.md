@@ -17,7 +17,7 @@ Last updated: 16 October 2022
 | November 18 (F) @ 1:10pm     | [Progress Report 3](progressreport.html) |
 | December 02 (F) @ 1:10pm     | Draft                                    |
 | December 05, 07, 09 @ 1:10pm | Group Presentation                       |
-| December 11 (Su) @ 11:59pm   | Final Paper                              |
+| December 11 (Su) @ 11:59pm   | Final Submission                         |
 
 
 
@@ -66,7 +66,20 @@ There are three progress reports, see [guidelines](progressreport.html) for inst
 
 
 
-## 5. Final Submission 
+## 5. Presentation
+
+You'll prepare a 15–20 minute presentation of your results. Each member should talk. See guidelines and rubric below.
+
+1. [Presentation guidelines](presentation_guidlines.pdf)
+2. [Presentation rubric](final-presentation-rubric.xlsx)
+
+## 6. Final paper submission 
+
+You'll submit your final paper as a group. Individully, you'll submit a reflection
+
+1. :star: [Final paper template](research-paper-template.docx) - note that the rubric is embedded
+2. [Final paper rubric](final-paper-rubric.xlsx) - same rubric as :point_up:, but as an excel file
+3. Reflection instructions. **(TBD)**
 
 
 
